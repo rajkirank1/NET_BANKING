@@ -1,0 +1,11 @@
+{
+  "name": "org.training.api.gateway",
+  "version": "1.0.0",
+  "description": "The API Gateway is a microservice responsible for routing requests to the appropriate backend services. It acts as a single entry point for all client requests and provides features such as load balancing, security, and monitoring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
